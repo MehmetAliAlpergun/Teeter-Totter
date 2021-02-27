@@ -1,0 +1,9 @@
+window.MaxBendingAngle = 30;
+window.MaxSumDifference = 20;
+window.BoardWidth = 10;
+window.ShapeCount = 3;
+window.MaxWeight = 10;
+window.MinWeight = 1;
+window.Timeout = 100;
+window.TimeoutStepDecreasing = 10;
+window.IterationCountIncreasing = 2;
