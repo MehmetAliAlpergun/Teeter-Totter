@@ -1,6 +1,8 @@
 # Teeter Totter
 Simple Vue.js Teeter Totter game 
 
+# Play
+You can play in [here](https://mehmetalialpergun.github.io/Teeter-Totter)
 
 ## Build Setup
 
