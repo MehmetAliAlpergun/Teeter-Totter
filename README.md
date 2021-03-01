@@ -4,6 +4,10 @@ Simple Vue.js Teeter Totter game
 # Play
 You can play in [here](https://mehmetalialpergun.github.io/Teeter-Totter)
 
+# Change Log
+* Added min-height attribute for smaller resolution
+
+
 ## Build Setup
 
 ``` bash
