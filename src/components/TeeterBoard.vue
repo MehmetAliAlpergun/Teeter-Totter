@@ -56,6 +56,7 @@
   .board {
     width: 100%;
     height: 0.5rem;
+    min-height:10px;
     background-color: #263238;
     position: relative;
     transform: rotate(0deg);
